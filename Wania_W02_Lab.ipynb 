@@ -7,7 +7,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/waniakhan10/Week1_Assignment1/blob/main/Wania_W02_Lab.ipynb%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/waniakhan10/Assignments/blob/main/Wania_W02_Lab.ipynb%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 2,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -159,7 +159,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 3,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -207,7 +207,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 6,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -257,7 +257,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 13,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -316,7 +316,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 22,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -364,7 +364,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 25,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -422,7 +422,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 28,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -476,7 +476,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 30,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -535,7 +535,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 32,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -591,7 +591,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 34,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -651,7 +651,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 73,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -704,7 +704,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 84,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -771,7 +771,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 90,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -813,7 +813,7 @@
         "outputId": "2b233b25-a1d7-4658-9cf8-5ef00186576f"
       },
       "id": "STht9s7aWRIP",
-      "execution_count": 91,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -847,7 +847,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 102,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -894,7 +894,7 @@
         "outputId": "dc4a8e7d-14e9-43ac-f2bc-a27012292a74"
       },
       "id": "PEEid3tMYYJe",
-      "execution_count": 103,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -936,7 +936,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 119,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -984,7 +984,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 122,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1058,7 +1058,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 123,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1121,7 +1121,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 132,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
